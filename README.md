@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**Pillow-Sveta/Pillow-Sveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   - **Tic-Tac-Toe** - a simple web application using the Spring framework.
 

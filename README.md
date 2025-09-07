@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: ...
   - **Telegram**: [@VioletLight08](https://t.me/VioletLight08)
-  - **Email**: podushkinasa16@gmail.com.email@gmail.com
+  - **Email**: [email](podushkinasi16@gmail.com)
 
 - 😄 Pronouns: ...
   - She/Her

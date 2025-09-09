@@ -1,9 +1,9 @@
 ## Hi there, I'm Sveta! 👋
 
-## 🚀 My Projects
+# 🚀 My Projects
 
-### java-rogue
-A collaborative implementation  inspired by a classic roguelike game in Java. The multi-layered architecture, based on MVC principles, separates rendering (JCurses), game logic, and data persistence. Includes procedural dungeon generation, turn-based combat, inventory management, and a save/load system.
+**java-rogue**
+  A collaborative implementation  inspired by a classic roguelike game in Java. The multi-layered architecture, based on MVC principles, separates rendering (JCurses), game logic, and data persistence. Includes procedural dungeon generation, turn-based combat, inventory management, and a save/load system.
 
 *   **Tech Stack:** Java, JCurses, Gradle. MVC
 *   [🔗 Link to repository]([https://github.com/your-username/your-repo-name](https://github.com/Pillow-Sveta/java-rogue.git))
